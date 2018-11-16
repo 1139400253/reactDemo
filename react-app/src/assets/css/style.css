@@ -1,0 +1,18 @@
+.labelInput{
+  margin-top: 10px;
+}
+.panelContent{
+  margin-top: 10px;
+}
+.input-group-addon{
+  cursor: pointer;
+}
+.ListItem{
+  display: flex !important;
+}
+.ListName{
+  flex: 1;
+}
+.delBtn{
+  width: 20px;
+}
